@@ -1,0 +1,23 @@
+{
+  "name": "test-example-with-mock",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx mocha --require esm"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "esm": "^3.2.25",
+    "fetch-mock": "^9.0.0-beta.2",
+    "mocha": "^7.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
