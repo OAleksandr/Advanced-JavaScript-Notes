@@ -23,7 +23,7 @@
     "fetch-mock": "^9.1.0",
     "handlebars": "^4.3.1",
     "mocha": "^6.2.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "babel": {
     "presets": [
